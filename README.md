@@ -10,6 +10,8 @@ AI based discourse for Banking Industry
 
 <b>Batch:</b> B2- 2A4E
 
+PROJECT LINK :https://chatbotcloudproject.000webhostapp.com/
+
 DEMO LINK :https://youtu.be/8hgQrbm875M
 
 <img src = "https://www.inbenta.com/wp-content/uploads/2021/11/conversational-ai-in-banking-1.png" width = "100%" height = "55%" />
